@@ -7,7 +7,7 @@
 2. 🔴 Process vs Thread
 3. 🔴 Process States/Lifecycle
 4. 🔴 What is a Context Switch?
-5. 🟠 Multitasking vs Multiprogramming vs Multithreading
+5. 🟠 Multitasking vs Multiprogramming vs Multithreading  
 
 **Concurrency**
 6. 🔴 Mutex vs Semaphore
