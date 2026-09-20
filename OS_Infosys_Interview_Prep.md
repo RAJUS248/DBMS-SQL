@@ -9,7 +9,7 @@
 4. 🔴 What is a Context Switch?   
 5. 🟠 Multitasking vs Multiprogramming vs Multithreading     
 
-**Concurrency   
+**Concurrency      
 6. 🔴 Mutex vs Semaphore
 7. 🟠 Deadlock — conditions and prevention
 8. 🟡 Race Condition & Critical Section
