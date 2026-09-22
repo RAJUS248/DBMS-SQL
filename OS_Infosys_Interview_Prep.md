@@ -10,7 +10,7 @@
 5. 🟠 Multitasking vs Multiprogramming vs Multithreading     
 
 **Concurrency         
-6. 🔴 Mutex vs Semaphore
+6. 🔴 Mutex vs Semaphore   
 7. 🟠 Deadlock — conditions and prevention
 8. 🟡 Race Condition & Critical Section
 
