@@ -8,7 +8,7 @@
 1. 🔴 What is System Design? Why does it matter?
 2. 🔴 Monolithic vs Microservices Architecture
 3. 🔴 Vertical Scaling vs Horizontal Scaling
-4. 🟠 What is Load Balancing?
+4. 🟠 What is Load Balancing?  
     
 **Core Concepts**
 5. 🟠 Caching — what it is, where it's used
