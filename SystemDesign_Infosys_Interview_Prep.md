@@ -12,7 +12,7 @@
        
 **Core Concepts**
 5. 🟠 Caching — what it is, where it's used
-6. 🟠 SQL vs NoSQL — when to choose which  
+6. 🟠 SQL vs NoSQL — when to choose which    
 7. 🟡 What is an API Gateway?
 8. 🟡 CAP Theorem (basic understanding)
 
