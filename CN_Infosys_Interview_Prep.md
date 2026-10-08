@@ -4,7 +4,7 @@
 
 **Basics**
 1. 🔴 What is a Computer Network? OSI Model overview
-2. 🔴 TCP vs UDP
+2. 🔴 TCP vs UDP   
 3. 🔴 HTTP vs HTTPS   
 4. 🔴 Router vs Switch vs Hub         
 5. 🟠 What is an IP Address? IPv4 vs IPv6       
