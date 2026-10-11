@@ -10,7 +10,7 @@
 3. 🔴 Vertical Scaling vs Horizontal Scaling
 4. 🟠 What is Load Balancing?  
           
-**Core Concepts**
+**Core Concepts**   
 5. 🟠 Caching — what it is, where it's used
 6. 🟠 SQL vs NoSQL — when to choose which        
 7. 🟡 What is an API Gateway?     
