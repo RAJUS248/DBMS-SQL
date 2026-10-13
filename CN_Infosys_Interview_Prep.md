@@ -13,7 +13,7 @@
 6. 🔴 What happens when you type a URL in a browser? (classic question)   
 7. 🟠 DNS — what it is and how it works        
 8. 🟠 TCP 3-Way Handshake      
-9. 🟠 What is a Port? Well-known ports    
+9. 🟠 What is a Port? Well-known ports       
    
 **Intermediate/Advanced**
 10. 🟡 What is DHCP?
