@@ -5,7 +5,7 @@
 **Basics**   
 1. 🔴 What is an Operating System? Why is it needed?
 2. 🔴 Process vs Thread
-3. 🔴 Process States/Lifecycle
+3. 🔴 Process States/Lifecycle    
 4. 🔴 What is a Context Switch?     
 5. 🟠 Multitasking vs Multiprogramming vs Multithreading        
 
