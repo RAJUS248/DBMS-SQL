@@ -12,7 +12,7 @@
 **Concurrency                    
 6. 🔴 Mutex vs Semaphore          
 7. 🟠 Deadlock — conditions and prevention      
-8. 🟡 Race Condition & Critical Section
+8. 🟡 Race Condition & Critical Section     
 
 **Memory Management**
 9. 🔴 Paging vs Segmentation
