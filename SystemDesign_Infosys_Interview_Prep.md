@@ -14,7 +14,7 @@
 5. 🟠 Caching — what it is, where it's used       
 6. 🟠 SQL vs NoSQL — when to choose which        
 7. 🟡 What is an API Gateway?     
-8. 🟡 CAP Theorem (basic understanding)
+8. 🟡 CAP Theorem (basic understanding)    
    
 **Practical / Resume-based**
 9. 🟠 How would you design a URL Shortener? (classic beginner design question)
